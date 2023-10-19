@@ -99,7 +99,7 @@ Character-level models find applications in:
 
 Character-level convolutional networks for text classification represent a promising avenue in NLP, offering solutions to some of the challenges posed by word-level models. Understanding their advantages, limitations, and potential applications is crucial for advancing text classification techniques.
 
-## PROJECT TIMELINE
+## Project Timeline
 
 - By Oct 7: Outline  (**Checkpoint 1**)
 - By Oct 15: Completion of model BoW
