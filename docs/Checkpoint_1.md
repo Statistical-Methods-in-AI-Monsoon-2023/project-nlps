@@ -1,5 +1,15 @@
 # Checkpoint 1 | Project Outline
 
+**Project ID**: 8 \
+**Project Title**: Character Level Models for Text Classification
+
+**TA**: Kawshik Manikantan \
+**Team Name**: NLPs \
+**Team Members**:
+
+- Revanth Kumar Gundam | 2021114018
+- Sriteja Reddy Pashya | 2021111019
+
 ## Scope
 
 This project involves a study regarding the classification of text using character-level models and how they compare with other baseline models. Classification tasks have always been one of the most important tasks. A classification task is a type of machine learning or data analysis problem where the goal is to categorize or assign predefined labels or classes to input data based on certain features or characteristics. The primary objective of a classification task is to build a model that can learn from a labelled dataset and then use this learned knowledge to classify new, unseen data into one of the predefined classes or categories.
