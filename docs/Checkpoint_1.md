@@ -39,8 +39,7 @@ The Bag of Words (BoW) model, combined with TF-IDF (Term Frequency-Inverse Docum
 **Formula**: \
 $TF(w,d)$ = number of times word $w$ occurs in document $d$ / total number of words in document $d$
 
-$$ IDF(w) = log(\text{total number of documents in the corpus} / \text{number of documents containing the word w+1}) $$
-
+$$ IDF(w) = \log\left(\frac{\text{total number of documents}}{\text{number of documents with word } w + 1}\right) $$
 $TF-IDF(w,d) = TF(w,d) * IDF(w)$
 
 We can use the above formula of TF-IDF in BoW.
@@ -102,12 +101,12 @@ Character-level convolutional networks for text classification represent a promi
 
 ## PROJECT TIMELINE
 
-- By Oct 7: Outline  ([**Checkpoint 1**](./Checkpoint_1.md))
+- By Oct 7: Outline  (**Checkpoint 1**)
 - By Oct 15: Completion of model BoW
 - By Oct 22: Completion of model BoW with TF-IDF
 - By Oct 28: Completion of LSTM model
-- By Oct 30: Completion of Baseline models ([**Checkpoint 2**](./Checkpoint_2.md))
+- By Oct 30: Completion of Baseline models (**Checkpoint 2**)
 - By Nov 13: Completion of model on Character Level Convolution Network
 - By Nov 18: Finetuning on CANINE
 - By Nov 25: Intuitive and Explanatory Analysis, Results and Limitations for all the models
-- By Nov 27: Completion of end-to-end system ([**Checkpoint 3**](./Checkpoint_3.md))
+- By Nov 27: Completion of end-to-end system (**Checkpoint 3**)
