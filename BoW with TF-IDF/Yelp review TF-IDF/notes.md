@@ -40,3 +40,27 @@ Classification Report:
    macro avg       0.55      0.56      0.55     50000
 weighted avg       0.55      0.56      0.55     50000
 ```
+
+## Linear Layer Custom Accuracy
+
+```txt
+Ordinal Accuracy of the network on the 50000 test inputs: 85.3045 %
+Confusion Matrix:
+[[7397 1944  239   72  348]
+ [2649 4763 1818  295  475]
+ [ 835 2152 4185 1777 1051]
+ [ 322  473 1728 3885 3592]
+ [ 324  132  306 1642 7596]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.74      0.69     10000
+           1       0.50      0.48      0.49     10000
+           2       0.51      0.42      0.46     10000
+           3       0.51      0.39      0.44     10000
+           4       0.58      0.76      0.66     10000
+
+    accuracy                           0.56     50000
+   macro avg       0.55      0.56      0.55     50000
+weighted avg       0.55      0.56      0.55     50000
+```
