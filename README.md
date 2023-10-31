@@ -23,8 +23,8 @@ There are three different datasets the classification needs to be performed on: 
 
 ## Timeline
 
-- Oct 7 - Checkpoint 1 (Outline): [Markdown](./Checkpoint_1.md) | [PDF](./Checkpoint_1.pdf)
-- Oct 30 - Checkpoint 2 (Baseline Models): [Markdown](./Checkpoint_2.md) | [PDF](./Checkpoint_2.pdf)
-- Nov 27 - Checkpoint 3 (End-to-End System): [Markdown](./Final_Report.md) | [PDF](./Final_Report.pdf)
+- Oct 7 - Checkpoint 1 (Outline): [Markdown](./docs/Checkpoint_1.md) | [PDF](./docs/Checkpoint_1.pdf)
+- Oct 30 - Checkpoint 2 (Baseline Models): [Markdown](./docs/Checkpoint_2.md) | [PDF](./docs/Checkpoint_2.pdf)
+- Nov 27 - Checkpoint 3 (End-to-End System): [Markdown](./docs/Final_Report.md) | [PDF](./docs/Final_Report.pdf)
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Zksn1waN)
