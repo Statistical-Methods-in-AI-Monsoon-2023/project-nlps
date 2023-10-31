@@ -44,7 +44,7 @@ weighted avg       0.90      0.90      0.90     69839
 
 ## Baseline Keras
 
-- 2 epochs
+- 3 epochs
 
 ```txt
 Test Accuracy: 96.86%
