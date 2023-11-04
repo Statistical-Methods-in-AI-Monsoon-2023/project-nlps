@@ -41,6 +41,8 @@ trained) on the custom input and provides the output.
 
 ## Project Proposal
 
+Project Propopsal: [Markdown](./docs/Checkpoint_1.md) | [PDF](./docs/Checkpoint_1.pdf)
+
 ### Scope
 
 This project involves a study regarding the classification of text using character-level models and how they compare with other baseline models. Classification tasks have always been one of the most important tasks. A classification task is a type of machine learning or data analysis problem where the goal is to categorize or assign predefined labels or classes to input data based on certain features or characteristics. The primary objective of a classification task is to build a model that can learn from a labelled dataset and then use this learned knowledge to classify new, unseen data into one of the predefined classes or categories.
