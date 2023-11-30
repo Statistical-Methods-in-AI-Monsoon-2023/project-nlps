@@ -1,5 +1,7 @@
 # Character Level Models for Text Classification
 
+Presentation Link: https://docs.google.com/presentation/d/1OYr7yYDdUByJuwbLDkQ9qK-kA_nTvzgo3efbeV-YwkU/edit?usp=sharing
+
 **TA**: Kawshik Manikantan \
 **Project ID**: 8
 
